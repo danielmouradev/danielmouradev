@@ -3,7 +3,7 @@
 
 -  📚 Atualmente cursando Análise e desenvolvimento de Sistemas
 -  👨🏽‍💻 Atualmente estou aprendendo Java
-- 👯 Quero colaborar com empresas de tecnologia em back-end
+-  🏢  Quero colaborar com empresas de tecnologia
 - 📫 Você pode entrar em contato comigo através de: danielmoura020713@gmail.com
 - 😄 Pronomes: ele/dele
 
