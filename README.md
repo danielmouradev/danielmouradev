@@ -1,7 +1,7 @@
 ## Olá, eu sou o Daniel Moura
 
 
--  📚 Atualmente cursando Análise e desenvolvimento de Sistemas
+-  📚 Formado em Análise e desenvolvimento de Sistemas
 -  👨🏽‍💻 Atualmente estou aprendendo Java
 -  🏢  Quero colaborar com empresas de tecnologia
 - 📫 Você pode entrar em contato comigo através de: danielmoura020713@gmail.com
